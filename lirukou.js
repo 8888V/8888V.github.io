@@ -1,4 +1,4 @@
-// remote_script.js
+// langzild.js
 
 // 获取 URL 参数
 const queryString = window.location.search;
